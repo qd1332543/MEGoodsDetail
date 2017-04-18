@@ -1,0 +1,1 @@
+../../../MEGoodsDetailServiceProtocol/MEGoodsDetailServiceProtocol/MEGoodsDetailServiceProtocol/MEGoodsDetailServiceProtocol.h

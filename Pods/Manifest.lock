@@ -1,0 +1,18 @@
+PODS:
+  - MEConfirmOrderServiceProtocol (0.0.1)
+  - MEGoodsDetailServiceProtocol (0.0.1)
+  - MEProtocolManager (0.0.1)
+
+DEPENDENCIES:
+  - MEConfirmOrderServiceProtocol
+  - MEGoodsDetailServiceProtocol
+  - MEProtocolManager
+
+SPEC CHECKSUMS:
+  MEConfirmOrderServiceProtocol: 1c6f018a182d52f9bf63565349698e881e892464
+  MEGoodsDetailServiceProtocol: d98e7d0892eb51e33a1fe45343abd66f6400cbd0
+  MEProtocolManager: 567bc01bebe8a1ce67e6aecfbd993ee0bc89a1a4
+
+PODFILE CHECKSUM: 37cfa054175459374c0bd35812e337cbe6cf084a
+
+COCOAPODS: 1.1.1
